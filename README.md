@@ -1,4 +1,4 @@
-# Finance Report Dashboard - README
+# Finance Report Dashboard
 
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of sales, profit, and product distribution across various business segments and geographic regions. 
